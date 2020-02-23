@@ -19,15 +19,13 @@ class App extends React.Component {
       monster.name.toLowerCase().includes(searchField.toLowerCase())
     );
     return (
-      <React.Fragment>
+      <div className="App">
         <SearchBox
           handleChange={e => this.setState({ searchField: e.target.value })}
           placeholder="search monsters"
         ></SearchBox>
-        <div className="App">
-          <CardList monsters={filteredMonsters}></CardList>
-        </div>
-      </React.Fragment>
+        <CardList monsters={filteredMonsters}></CardList>
+      </div>
     );
   }
 }
