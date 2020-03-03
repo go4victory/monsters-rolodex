@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/go4victory.github.io/monsters-rolodex/static/css/main.8ebbf251.chunk.css",
+    "main.js": "/go4victory.github.io/monsters-rolodex/static/js/main.84184834.chunk.js",
+    "main.js.map": "/go4victory.github.io/monsters-rolodex/static/js/main.84184834.chunk.js.map",
+    "runtime-main.js": "/go4victory.github.io/monsters-rolodex/static/js/runtime-main.3461790a.js",
+    "runtime-main.js.map": "/go4victory.github.io/monsters-rolodex/static/js/runtime-main.3461790a.js.map",
+    "static/js/2.1f3314c8.chunk.js": "/go4victory.github.io/monsters-rolodex/static/js/2.1f3314c8.chunk.js",
+    "static/js/2.1f3314c8.chunk.js.map": "/go4victory.github.io/monsters-rolodex/static/js/2.1f3314c8.chunk.js.map",
+    "index.html": "/go4victory.github.io/monsters-rolodex/index.html",
+    "precache-manifest.74dc649ba6c05375763c17f817f5e2c0.js": "/go4victory.github.io/monsters-rolodex/precache-manifest.74dc649ba6c05375763c17f817f5e2c0.js",
+    "service-worker.js": "/go4victory.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.8ebbf251.chunk.css.map": "/go4victory.github.io/monsters-rolodex/static/css/main.8ebbf251.chunk.css.map",
+    "static/js/2.1f3314c8.chunk.js.LICENSE.txt": "/go4victory.github.io/monsters-rolodex/static/js/2.1f3314c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3461790a.js",
+    "static/js/2.1f3314c8.chunk.js",
+    "static/css/main.8ebbf251.chunk.css",
+    "static/js/main.84184834.chunk.js"
+  ]
+}
